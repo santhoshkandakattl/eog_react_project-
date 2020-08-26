@@ -1,2 +1,5 @@
-# eog_react_project-
-Assignment in react
+## Create React App Visualization
+
+This assessment was bespoke handcrafted for santhosh.
+
+Read more about this assessment [here](https://react.eogresources.com)
